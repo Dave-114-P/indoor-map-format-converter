@@ -1,0 +1,5 @@
+ezdxf==1.4.1;
+shapely==2.1.0;
+geopandas==1.0.1;
+geojson==3.2.0;
+lxml==5.4.0;
